@@ -10,6 +10,7 @@
 #include <vsomeip/primitive_types.hpp>
 #include <vsomeip/enumeration_types.hpp>
 #include <vsomeip/internal/serializable.hpp>
+#include <vsomeip/internal/deserializable.hpp>
 
 namespace vsomeip_v3 {
 

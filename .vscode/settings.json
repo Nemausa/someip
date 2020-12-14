@@ -85,6 +85,11 @@
         "queue": "cpp",
         "xhash": "cpp",
         "random": "cpp",
-        "*.hp": "cpp"
+        "*.hp": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "xlocmon": "cpp",
+        "xloctime": "cpp",
+        "xtree": "cpp"
     }
 }
